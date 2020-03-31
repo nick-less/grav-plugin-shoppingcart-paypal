@@ -10,6 +10,6 @@
     ],
     "require": {
         "omnipay/paypal": "~2.0",
-        "symfony/http-foundation": "3.4.35"
+        "symfony/http-foundation": "2.8.52"
     }
 }
